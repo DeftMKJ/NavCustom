@@ -1,0 +1,5 @@
+platform:ios,'7.0'
+target '递归的方法取消1px' do
+pod 'JZNavigationExtension'
+end
+
